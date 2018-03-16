@@ -5,7 +5,7 @@ import configparser
   Dependency: 
 """
 
-# Loads property in Configuration file related to MySQL Connectivity
+
 def mysql_property_extractor():
   """
       Extract property from Configuration file(yaml) named config.properties in same property and extract property for section MYSQL_DB.

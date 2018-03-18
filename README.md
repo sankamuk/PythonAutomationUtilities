@@ -4,7 +4,7 @@ This is a set of utilities that can help you in any or every Python based automa
 
 Descriptions:
 
-**win_remote**
+**_win_remote_**
   
   Library to execute operation on remote Windows host. Note module connect via domain user using Kerberos based authentication.
   
@@ -12,13 +12,13 @@ Descriptions:
   
   Dependency:
   
-**unix_remote**
+**_unix_remote_**
   
   Library to perform remote Unix host actions.
   
   Requirement: http://www.paramiko.org/
   
-**file_comm**
+**_file_comm_**
 
   Library to compare files.
   
@@ -26,7 +26,7 @@ Descriptions:
   
   Dependency:
  
-**mysql_lib**
+**_mysql_lib_**
   
   Library to execute query on remote/local mysql database.
   
@@ -34,7 +34,7 @@ Descriptions:
   
   Dependency: property_loader library in current project.
   
-**property_loader**
+**_property_loader_**
  
   Library to read property file Yaml and return property list of property for a section.
   

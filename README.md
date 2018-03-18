@@ -18,6 +18,14 @@ Descriptions:
   
   Requirement: http://www.paramiko.org/
   
+**file_comm**
+
+  Library to compare files.
+  
+  Requirement: 
+  
+  Dependency:
+ 
 **mysql_lib**
   
   Library to execute query on remote/local mysql database.
